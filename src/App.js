@@ -85,7 +85,7 @@ function App() {
       title: 'About Me',
       description: "Hi there! I'm Jamie, a software engineer passionate about building impactful applications. I hold a Bachelor's degree and have a strong foundation in various programming languages and frameworks. I'm always eager to learn new technologies and contribute to innovative projects. When I'm not coding, you can find me exploring San Diego's beautiful beaches or diving into a good book.",
       technologies: 'React, JavaScript, HTML, CSS', // Add relevant technologies efor your "About Me" if any
-      imageUrl: 'image_jamie.jpg'
+      imageUrl: 'image_jamie.jpeg'
     },
     // Add more projects here
   ];
