@@ -46,8 +46,7 @@ function App() {
       title: 'Pandas Data Analysis Project',
       description: 'An in-depth data analysis project using the Pandas library to derive insights from a large dataset.',
       technologies: 'Python, Pandas, Matplotlib, Jupyter Notebook',
-      githubLink: 'https://github.com/jamie082/pandas-project-repo',
-      imageUrl: 'pandas.png'
+      githubLink: 'https://github.com/jamie082/pandas-project-repo'
     },
     {
       id: 'leetcode',
@@ -61,16 +60,14 @@ function App() {
       title: 'Discord Bot',
       description: 'A custom Discord bot developed to automate tasks and provide interactive features for a community server.',
       technologies: 'Node.js, Discord.js',
-      githubLink: 'https://github.com/jamie082/discord-bot-repo',
-      imageUrl: 'discord-bot.png'
+      githubLink: 'https://github.com/jamie082/discord-bot-repo'
     },
     {
       id: 'ml-prediction',
       title: 'Weather Prediction w/ ML',
       description: 'A machine learning project that predicts weather patterns based on historical data.',
       technologies: 'Python, Scikit-learn, Pandas, NumPy',
-      githubLink: 'https://github.com/jamie082/weather-ml-repo',
-      imageUrl: 'ml-weather.png'
+      githubLink: 'https://github.com/jamie082/weather-ml-repo'
     },
     {
       id: 'flappy-birds',
