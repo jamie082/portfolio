@@ -31,7 +31,7 @@ function App() {
       title: 'Python Web Scraper',
       description: 'A Python-based web scraper to extract data from various websites for analysis.  This was the first Python program I wrote before I really started entering the realm of full-stack developement with the Software Engineering degree from Western Governors University.',
       technologies: 'Python, BeautifulSoup, Requests',
-      githubLink: 'https://github.com/jamie082/web-scraper-repo'
+      githubLink: 'https://github.com/jamie082/resume_scraper'
     },
     {
       id: 'Lindsey',
