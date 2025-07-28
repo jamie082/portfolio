@@ -38,7 +38,7 @@ function App() {
       title: 'WGU Capstone Project',
       description: 'My final capstone project for Western Governors University, demonstrating full-stack development skills.',
       technologies: 'React, Node.js, Express, MongoDB',
-      githubLink: 'https://github.com/jamie082/wgu-capstone-repo',
+      githubLink: 'https://github.com/jamie082/capstone_code',
       demoLink: 'http://your-capstone-demo.com'
     },
     {
