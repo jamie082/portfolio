@@ -84,7 +84,7 @@ function App() {
       technologies: 'SpringBoot, Java',
       githubLink: 'https://github.com/jamie082/walking_project',
       demoLink: 'helolo.com'
-    }
+    },
     {
       id: 'jamie-about',
       title: 'About Me',
