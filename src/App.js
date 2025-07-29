@@ -82,7 +82,6 @@ function App() {
           | <a href="https://github.com/jamie082/" target="_blank" rel="noopener noreferrer">Github</a>
         </p>
         <h1>Software Engineer w/ Bachelors Degree</h1>
-        <i>Front End Engineer</i>
         <i>Python, Java, SQL, SpringBoot</i>
       </div>
 
