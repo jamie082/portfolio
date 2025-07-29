@@ -83,7 +83,7 @@ function App() {
         </p>
         <h1>Software Engineer w/ Bachelors Degree</h1>
         <i>Front End Engineer</i>
-        <i style="font-size: 7px;">Python, Java, SQL, SpringBoot</i>
+        <i>Python, Java, SQL, SpringBoot</i>
       </div>
 
       <div className="w3-bar w3-black">
