@@ -70,14 +70,6 @@ function App() {
       githubLink: 'https://github.com/jamie082/weather_prediction_ml'
     },
     {
-      id: 'flappy-birds',
-      title: 'Flappy Birds Clone',
-      description: 'A recreation of the classic Flappy Birds game using web technologies.',
-      technologies: 'JavaScript, HTML5 Canvas, CSS',
-      githubLink: 'https://github.com/jamie082/flappy-birds-clone',
-      demoLink: 'http://your-flappy-birds-demo.com'
-    },
-    {
       id: 'walking-app',
       title: 'My walking app',
       description: 'A full-stack java app to demonstrate my coding skills for my resume',
