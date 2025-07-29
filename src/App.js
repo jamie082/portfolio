@@ -42,32 +42,11 @@ function App() {
       demoLink: 'http://your-capstone-demo.com'
     },
     {
-      id: 'Susan',
-      title: 'Pandas Data Analysis Project',
-      description: 'An in-depth data analysis project using the Pandas library to derive insights from a large dataset.',
-      technologies: 'Python, Pandas, Matplotlib, Jupyter Notebook',
-      githubLink: 'https://github.com/jamie082/pandas_project'
-    },
-    {
       id: 'leetcode',
       title: 'LeetCode Problems',
       description: 'Solutions to various LeetCode problems, showcasing problem-solving and algorithm skills.',
       technologies: 'Python, JavaScript, Data Structures, Algorithms',
       githubLink: 'https://github.com/jamie082/leetcode-solutions'
-    },
-    {
-      id: 'discord',
-      title: 'Discord Bot',
-      description: 'A custom Discord bot developed to automate tasks and provide interactive features for a community server.',
-      technologies: 'Node.js, Discord.js',
-      githubLink: 'https://github.com/jamie082/discord_bot'
-    },
-    {
-      id: 'ml-prediction',
-      title: 'Weather Prediction w/ ML',
-      description: 'A machine learning project that predicts weather patterns based on historical data.',
-      technologies: 'Python, Scikit-learn, Pandas, NumPy',
-      githubLink: 'https://github.com/jamie082/weather_prediction_ml'
     },
     {
       id: 'walking-app',
@@ -103,6 +82,7 @@ function App() {
           | <a href="https://github.com/jamie082/" target="_blank" rel="noopener noreferrer">Github</a>
         </p>
         <h1>Software Engineer w/ Bachelors Degree</h1>
+        <i>Python, Java, SQL, SpringBoot</i>
       </div>
 
       <div className="w3-bar w3-black">
