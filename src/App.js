@@ -78,6 +78,14 @@ function App() {
       demoLink: 'http://your-flappy-birds-demo.com'
     },
     {
+      id: 'walking-app',
+      title: 'My walking app',
+      description: 'A full-stack java app to demonstrate my coding skills for my resume',
+      technologies: 'SpringBoot, Java',
+      githubLink: 'https://github.com/jamie082/walking_project',
+      demoLink: 'helolo.com'
+    }
+    {
       id: 'jamie-about',
       title: 'About Me',
       description: "Hi there! I'm Jamie, a software engineer passionate about building impactful applications. I hold a Bachelor's degree and have a strong foundation in various programming languages and frameworks. I'm always eager to learn new technologies and contribute to innovative projects. When I'm not coding, you can find me exploring San Diego's beautiful beaches or diving into a good book.",
