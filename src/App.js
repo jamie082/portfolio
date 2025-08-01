@@ -52,8 +52,8 @@ function App() {
       id: 'walking-app',
       title: 'My walking app',
       description: 'A full-stack java app to demonstrate my coding skills for my resume',
-      technologies: 'SpringBoot, Java',
-      githubLink: 'https://github.com/jamie082/walking_project'
+      technologies: 'SpringBoot, Java, h2 database',
+      githubLink: 'https://github.com/jamie082/use_db_app'
     },
     {
       id: 'jamie-about',
